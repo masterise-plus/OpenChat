@@ -246,7 +246,7 @@ export default function App({
             </div>
             <div>
                 <div className="powered-by">
-                  Powered by <a className="ch-text-accent" href="https://openchat.so">OpenChat</a>
+                  Powered by Core BCA Finance Team
                 </div>
             </div>
           </Dialog.Content>
