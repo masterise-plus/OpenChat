@@ -54,7 +54,7 @@ function InputComponent({
               maxRows={10}
               className="ch-w-full ch-leading-7 placeholder:ch-leading-loose ch-text-accent placeholder:ch-text-sm ch-bg-transparent ch-text-lg ch-font-normal ch-p-1 ch-align-middle ch-min-h-full ch-outline-none"
               type="text"
-              placeholder="ask any question?"
+              placeholder="Tanyakan sesuatu..."
               ref={input_ref}
             />
           </div>

@@ -216,7 +216,7 @@ export default function App({
                           maxRows={10}
                           className="ch-w-full focus:ch-outline-none ch-leading-7 placeholder:ch-leading-loose ch-text-accent placeholder:ch-text-sm ch-bg-transparent ch-text-lg ch-font-normal ch-p-1 ch-align-middle ch-min-h-full ch-outline-none"
                           type="text"
-                          placeholder="ask any question?"
+                          placeholder="Tanyakan sesuatu..."
                         />
                       </div>
                       <button
@@ -245,7 +245,7 @@ export default function App({
               </div>
             </div>
             <div>
-                <div className="powered-by">
+                <div>
                   Powered by Core BCA Finance Team
                 </div>
             </div>
