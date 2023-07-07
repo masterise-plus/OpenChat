@@ -18,7 +18,7 @@ class CreateChatbotViaPdfFlowRequest extends FormRequest
 
     public function getName(): string
     {
-        return $this->get('name', 'Core LLM');
+        return $this->get('name', 'Core LLM Preview');
     }
 
     public function getWebsite(): string

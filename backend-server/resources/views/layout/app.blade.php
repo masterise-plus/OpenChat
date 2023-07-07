@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>OpenChat - Dashboard</title>
+    <title>Core AI DashBoard</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link href="/dashboard/css/vendors/flatpickr.min.css" rel="stylesheet">
     <link href="/dashboard/style.css" rel="stylesheet">

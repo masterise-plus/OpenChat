@@ -205,7 +205,7 @@
                     </form>
                 </div>
                 <div style="text-align: center; background: white;font-size: 12px">
-                    Powered by <strong><a href="https://openchat.so" target="_blank" class="text-indigo-500 hover:text-indigo-600">OpenChat</a></strong>
+                    Powered by <strong><a target="_blank" class="text-indigo-500 hover:text-indigo-600">CORE BCA FINANCE TEAM</a></strong>
 
                 </div>
             </div>

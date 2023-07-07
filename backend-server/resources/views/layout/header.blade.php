@@ -43,7 +43,7 @@
 
                         <div class="flex items-center truncate">
                             <span
-                                class="truncate ml-2 text-sm font-medium group-hover:text-slate-800">User</span>
+                                class="truncate ml-2 text-sm font-medium group-hover:text-slate-800">Admin</span>
                             <svg class="w-3 h-3 shrink-0 ml-1 fill-current text-slate-400" viewBox="0 0 12 12">
                                 <path d="M5.9 11.4L.5 6l1.4-1.4 4 4 4-4L11.3 6z"/>
                             </svg>
@@ -63,7 +63,7 @@
                         x-cloak
                     >
                         <div class="pt-0.5 pb-2 px-3 mb-1 border-b border-slate-200">
-                            <div class="font-medium text-slate-800">User</div>
+                            <div class="font-medium text-slate-800">Admin</div>
                             <div class="text-xs text-slate-500 italic">Root account</div>
                         </div>
 

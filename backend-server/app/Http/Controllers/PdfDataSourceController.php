@@ -17,7 +17,7 @@ class PdfDataSourceController extends Controller
         $dataSource = (new HandlePdfDataSource($bot, $files))->handle();
         event(new PdfDataSourceWasAdded($bot->getId(), $dataSource->getId()));
 
-        return redirect()->route('chatbot.settings-data', ['id' => $bot->getId()])->with('success', 'Your files have been uploaded successfully, we are training the model now, it should take around 5 minutes to reflect.');
+        return redirect()->route('chatbot.settings-data', ['id' => $bot->getId()])->with('success', 'File kamu berhasi diupload, we are training the model now, it should take around 5 minutes to reflect.');
     }
 
     public function show($id)

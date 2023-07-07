@@ -134,7 +134,7 @@
 
                             <!-- Password -->
                             <section>
-                                <h3 class="text-xl leading-snug text-slate-800 font-bold mb-1">Delete the bot</h3>
+                                <h3 class="text-xl leading-snug text-slate-800 font-bold mb-1">Hapus bot</h3>
                                 <div class="text-sm">Deleting the bot will delete all the data associated with it.</div>
                                 <div class="mt-5">
                                     <a class="btn border-slate-200 shadow-sm text-indigo-500"
