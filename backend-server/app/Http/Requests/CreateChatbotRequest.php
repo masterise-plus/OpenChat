@@ -18,7 +18,7 @@ class CreateChatbotRequest extends FormRequest
 
     public function getName(): string
     {
-        return $this->get('name', 'My first chatbot');
+        return $this->get('name', 'Core LLM');
     }
 
     public function getWebsite(): string
